@@ -54,6 +54,10 @@ Console.WriteLine();
 Dog myDog = new Dog("小黑");
 myDog.Speak();
 
+Console.WriteLine();
+Console.WriteLine("========== 以上是第一课复习，下面进入第二课 ==========");
+Lesson2.Run();
+
 // 暂停在这里，等你按回车再退出窗口。
 // 这样即使双击 exe 启动，窗口也不会一闪而过。
 Console.WriteLine();
