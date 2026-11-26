@@ -9,49 +9,39 @@ static class Exercise
     // 提示：把 throw 那行删掉，改成 return a + b;
     public static int Add(int a, int b)
     {
-        return a + b;
+        throw new NotImplementedException(); // TODO
     }
 
     // 练习 2：分数及格返回 true（>=60），否则 false
     // 提示：return score >= 60;
     public static bool IsPass(int score)
     {
-        return score >= 60;
+        throw new NotImplementedException(); // TODO
     }
 
     // 练习 3：返回 "你好，{name}！"（用字符串插值）
     // 提示：return $"你好，{name}！";
     public static string Greet(string name)
     {
-        return $"你好，{name}！";
+        throw new NotImplementedException(); // TODO
     }
 
     // 练习 4：返回 a 和 b 中较大的那个（用 if 判断）
     public static int GetMax(int a, int b)
     {
-        return a > b ? a : b;
+        throw new NotImplementedException(); // TODO
     }
 
     // 练习 5：用 for 循环计算 1 到 n 的和（如 n=5 返回 15）
     public static int SumTo(int n)
     {
-        int sum = 0;
-        for (int i = 1; i <= n; i++)
-        {
-            sum += i;
-        }
-        return sum;
+        throw new NotImplementedException(); // TODO
     }
 
     // 练习 6：把数组里每个数都加 1，返回新数组（如 [1,2,3] → [2,3,4]）
     // 提示：先 new int[nums.Length]，再用 for 循环逐个赋值
     public static int[] AddOneEach(int[] nums)
     {
-        int[] result = new int[nums.Length];
-        for (int i = 0; i < nums.Length; i++)
-        {
-            result[i] = nums[i] + 1;
-        }
-        return result;
+        throw new NotImplementedException(); // TODO
     }
 }

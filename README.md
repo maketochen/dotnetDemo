@@ -37,7 +37,7 @@ dotnetDemo/
 
 v2 已据 [milanm 的 2026 路线图](https://github.com/milanm/DotNet-Developer-Roadmap) 逐条查漏补缺，并修正两处过时信息（Swagger 已非默认、Semantic Kernel 进入维护模式）。
 
-当前进度：阶段 1 第四课（异步与泛型委托）已就绪待作答，前三课 26 检查点全绿。里程碑排期见 [PLAN.md](PLAN.md)。
+当前进度：**阶段 1 已毕业**（四课 36 检查点全绿）。第一次无提示复习进行中——前三课 Exercise.cs 已还原成空白，凭记忆重写。里程碑排期见 [PLAN.md](PLAN.md)。
 
 ## 跨设备同步
 
