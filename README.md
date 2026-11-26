@@ -8,6 +8,7 @@
 dotnetDemo/
 ├── Lesson01_Fundamentals/       第一课：变量 / 类型 / 控制流 / 方法 / 类
 ├── Lesson02_CollectionsAndLinq/ 第二课：集合 / LINQ
+├── Lesson03_ExceptionsAndNullables/ 第三课：异常 / 可空类型（学完这课基础阶段毕业）
 ├── Solutions/                   参考答案库（做完练习再对照）
 ├── FreeDemo/                    早期示例：Polly 重试 + SQLite（阶段 2 会拆）
 ├── AspireMvp/                   Aspire 解决方案（阶段 6 会拆）
@@ -23,7 +24,7 @@ dotnetDemo/
 
 ## 六阶段大纲
 
-1. C# 语言基础 ← 当前在学（第 1–2 课已完成框架）
+1. C# 语言基础 ← 当前在学（第 1–3 课框架已就绪，第 1–2 课已通过）
 2. 工具链与控制台实战（拆 `FreeDemo`）
 3. Web API（从零搭待办 API）
 4. 数据持久化（EF Core + SQLite）

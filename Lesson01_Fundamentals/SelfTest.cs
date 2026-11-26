@@ -46,7 +46,7 @@ static class SelfTest
             label += $"（报错：{ex.GetType().Name}）";
         }
 
-        Console.WriteLine($"  {(ok ? "[通过]" : "[失败]")} {label}");
+        Console.WriteLine($"  {(ok ? "[通过]✅" : "[失败]❌")} {label}");
         if (ok) _passed++; else _failed++;
     }
 }
