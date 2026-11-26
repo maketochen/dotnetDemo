@@ -24,7 +24,10 @@ dotnetDemo/
 
 ## 学习路线
 
-已结合 2026 年行业路线图修订为**阶段 0 + 九阶段三梯队**（v2 查漏补缺版），详见 [ROADMAP.md](ROADMAP.md)。
+两份文档，分工不同：
+
+- **[ROADMAP.md](ROADMAP.md)** —— 「学什么」：阶段 0 + 九阶段三梯队的完整知识地图（v2 查漏补缺版）。
+- **[PLAN.md](PLAN.md)** —— 「怎么走」：按每周 3–5 小时排的里程碑、每阶段毕业线、贯穿式 TodoApi 项目、每 3 课一次的无提示复习机制。
 
 - **阶段 0 · 生态认知**：.NET 运行时演进 / LTS 与 STS / CLR / NuGet（v2 新增）
 - **第一梯队 · 就业核心**：阶段 1（进行中）→ 2 工具链 → 3 Web API → 4 数据持久化 → 5 测试 → 6 工程化与云部署
@@ -33,7 +36,7 @@ dotnetDemo/
 
 v2 已据 [milanm 的 2026 路线图](https://github.com/milanm/DotNet-Developer-Roadmap) 逐条查漏补缺，并修正两处过时信息（Swagger 已非默认、Semantic Kernel 进入维护模式）。
 
-当前进度：阶段 1 前三课完成（26 检查点全绿），下一步补 async/await 与泛型委托。
+当前进度：阶段 1 前三课完成（26 检查点全绿），下一步补 async/await 与泛型委托。里程碑排期见 [PLAN.md](PLAN.md)。
 
 ## 跨设备同步
 
