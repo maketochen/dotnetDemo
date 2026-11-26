@@ -58,7 +58,7 @@ static class Exercise
                 return item;
             }
         }
-      //  return default!;
+       return default!;
     }
 
     // 辅助方法（不用改）：模拟一个耗时 30ms 的异步获取
