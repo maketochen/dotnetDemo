@@ -8,7 +8,7 @@
 dotnetDemo/
 ├── Lesson01_Fundamentals/       第一课：变量 / 类型 / 控制流 / 方法 / 类
 ├── Lesson02_CollectionsAndLinq/ 第二课：集合 / LINQ
-├── CSharpBasics/                参考答案库（做完练习再对照）
+├── Solutions/                   参考答案库（做完练习再对照）
 ├── FreeDemo/                    早期示例：Polly 重试 + SQLite（阶段 2 会拆）
 ├── AspireMvp/                   Aspire 解决方案（阶段 6 会拆）
 └── .workbuddy/memory/           学习进度记忆
@@ -19,7 +19,7 @@ dotnetDemo/
 1. 进入课程文件夹，先读 `Demo.cs`（知识点回顾）和 `README.md`。
 2. 打开 **`Exercise.cs`**，在 TODO 处自己写代码。
 3. 终端运行 `dotnet run`，底部会显示自动批改结果。
-4. 全绿了再进下一课；卡住就看 `CSharpBasics/` 里的参考答案。
+4. 全绿了再进下一课；卡住就看 `Solutions/` 里的参考答案。
 
 ## 六阶段大纲
 
