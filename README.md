@@ -8,8 +8,9 @@
 dotnetDemo/
 ├── Lesson01_Fundamentals/       第一课：变量 / 类型 / 控制流 / 方法 / 类
 ├── Lesson02_CollectionsAndLinq/ 第二课：集合 / LINQ
-├── Lesson03_ExceptionsAndNullables/ 第三课：异常 / 可空类型（学完这课基础阶段毕业）
-├── Solutions/                   参考答案库（做完练习再对照）
+├── Lesson03_ExceptionsAndNullables/ 第三课：异常 / 可空类型
+├── Lesson04_AsyncAndDelegates/  第四课：异步 / 泛型 / 委托（学完这课基础阶段毕业）
+├── Solutions/                   参考答案库 + Review/ 复习备份（做完练习再对照）
 ├── FreeDemo/                    早期示例：Polly 重试 + SQLite（阶段 2 会拆）
 ├── AspireMvp/                   Aspire 解决方案（阶段 6 会拆）
 └── .workbuddy/memory/           学习进度记忆
@@ -36,7 +37,7 @@ dotnetDemo/
 
 v2 已据 [milanm 的 2026 路线图](https://github.com/milanm/DotNet-Developer-Roadmap) 逐条查漏补缺，并修正两处过时信息（Swagger 已非默认、Semantic Kernel 进入维护模式）。
 
-当前进度：阶段 1 前三课完成（26 检查点全绿），下一步补 async/await 与泛型委托。里程碑排期见 [PLAN.md](PLAN.md)。
+当前进度：阶段 1 第四课（异步与泛型委托）已就绪待作答，前三课 26 检查点全绿。里程碑排期见 [PLAN.md](PLAN.md)。
 
 ## 跨设备同步
 
