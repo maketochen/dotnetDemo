@@ -1,0 +1,23 @@
+# .NET 构建产物
+bin/
+obj/
+[Dd]ebug/
+[Rr]elease/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio / Rider 缓存
+.vs/
+.idea/
+*.sln.iml
+
+# 本机数据库文件（练习用，不含在仓库里）
+*.db
+*.db-shm
+*.db-wal
+
+# 系统文件
+.DS_Store
+Thumbs.db
